@@ -1,0 +1,2 @@
+*.docx diff=zip
+*.doc diff=word
